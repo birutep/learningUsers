@@ -1,0 +1,6 @@
+#FileLock
+#Tue Mar 20 07:01:03 EET 2018
+hostName=Tomas
+id=16241c830ec86f658f5d3955596fc8f66018e4228bf
+method=file
+server=192.168.1.102\:56613
